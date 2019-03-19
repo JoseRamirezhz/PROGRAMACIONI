@@ -1,0 +1,6 @@
+c:\users\david ramirez\documents\visual studio 2015\Projects\Ejercicios\GuiaEjercicios\bin\Debug\GuiaEjercicios.exe.config
+c:\users\david ramirez\documents\visual studio 2015\Projects\Ejercicios\GuiaEjercicios\obj\Debug\GuiaEjercicios.csprojResolveAssemblyReference.cache
+c:\users\david ramirez\documents\visual studio 2015\Projects\Ejercicios\GuiaEjercicios\bin\Debug\GuiaEjercicios.exe
+c:\users\david ramirez\documents\visual studio 2015\Projects\Ejercicios\GuiaEjercicios\bin\Debug\GuiaEjercicios.pdb
+c:\users\david ramirez\documents\visual studio 2015\Projects\Ejercicios\GuiaEjercicios\obj\Debug\GuiaEjercicios.exe
+c:\users\david ramirez\documents\visual studio 2015\Projects\Ejercicios\GuiaEjercicios\obj\Debug\GuiaEjercicios.pdb
